@@ -7,9 +7,11 @@
 🧑‍💻 I’m currently working as a Software Engineer at EmptyCup, focusing on data migration, CLI tools, and 3D rendering optimization. 
 
 
-💬 Ask me about Backend, Python (Flask, FastAPI), React, Svelte, React Native, and THREE.js.
+💬 Ask me about Backend, Python (Flask, FastAPI) and UIs.
 
-📫 How to reach me: rkmehta246@gmail.com 
+📫 How to reach me: rkmehta246@gmail.com
+<br />
+🌐 Portfolio: <a href="https://stickqz.github.io">stickqz.github.io</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,7 +66,3 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stickqz&show_icons=true&locale=en&layout=compact" alt="stickqz" height="200" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stickqz&show_icons=true&locale=en" alt="stickqz" height="200" /></p>
